@@ -2,3 +2,7 @@ body{
     background: linear-gradient(#e66465, #9198e5);
     font-family: 'ABeeZee', sans-serif;
 }
+button{
+    background-color: rgb(255, 234, 116);
+    padding: 10px;
+}
